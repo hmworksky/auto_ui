@@ -1,0 +1,14 @@
+sanxing_wx:
+  platformName: Android
+  platformVersion: 7.0
+  deviceName: 0815f8182fda1005
+  automationName: Appium
+  appPackage: com.tencent.mm
+  appActivity: com.tencent.mm.ui.LauncherUI
+  noSign: True
+  noReset: True
+  unicodeKeyboard: True
+  resetKeyboard: True
+  chromedriverExecutableDir: /Users/huangmin/tools
+  chromeOptions:
+    androidProcess: com.tencent.mm:tools
